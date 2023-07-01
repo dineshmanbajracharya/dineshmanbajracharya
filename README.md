@@ -1,8 +1,6 @@
-**John Doe**
-About Me
+
 I am Dineshman Bajracharya, a computer engineering undergraduate student at the University of Texas at Dallas. My passion lies in the fields of machine learning and nanotechnology. I am constantly seeking opportunities to expand my knowledge and skills in these areas.
 
-Interests
 I am particularly interested in exploring the vast realm of machine learning, where I aim to leverage the power of data to solve real-world problems. Additionally, my fascination with nanotechnology drives me to delve into its development and applications.
 
 Current Learning Focus
