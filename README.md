@@ -16,6 +16,6 @@ Hobbies:
 When I'm not coding or learning about the latest technological advancements, I enjoy playing the guitar and singing. Music is an important part of my life and provides a creative outlet and relaxation.
 
 Contact Information:
-You can reach out to me via email at dineshmanb18@gmail.com. Additionally, you can connect with me on LinkedIn at linkedin.com/in/dineshmanbajracharya.
+You can reach out to me via email at dineshmanbajracharya@outlook.com. Additionally, you can connect with me on LinkedIn at linkedin.com/in/dineshmanbajracharya.
 
 I look forward to connecting with individuals who share similar interests and exploring collaborative opportunities in the exciting world of technology.
