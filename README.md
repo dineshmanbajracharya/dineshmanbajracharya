@@ -1,21 +1,41 @@
+Hi there! 👋 I'm Dineshman Bajracharya
+👨‍🎓 Undergraduate Student
+📚 University of Texas at Dallas
+🌟 Passionate about Machine Learning, Artificial Intelligence, and Nanotechnology
 
-I am Dineshman Bajracharya, a computer engineering undergraduate student at the University of Texas at Dallas. My passion lies in the fields of machine learning and nanotechnology. I am constantly seeking opportunities to expand my knowledge and skills in these areas.
+About Me
+I am a dedicated computer engineering student eager to solve real-world problems through innovative solutions. My passion lies in exploring cutting-edge technologies like machine learning and AI while delving into the fascinating applications of nanotechnology.
 
-I am particularly interested in exploring the vast realm of machine learning, where I aim to leverage the power of data to solve real-world problems. Additionally, my fascination with nanotechnology drives me to delve into its development and applications.
+🎯 Current Focus:
 
-Current Learning Focus:
-At the moment, I am immersed in learning C++ and C programming languages. These languages offer me a strong foundation in computer science and enable me to build efficient and robust software systems.
+Enhancing my programming skills in C and C++ for efficient and robust software development.
+Exploring Kotlin for Android app development and collaborating on impactful projects.
+🚀 Future Goals:
 
-Collaboration Opportunities:
-I am actively seeking collaboration opportunities in Android app development using Kotlin. Collaborating with like-minded individuals on exciting projects would enhance my skills and contribute to developing innovative and impactful applications.
+Expanding my expertise in Java, React, and advanced AI/ML frameworks.
+Developing applications that bridge the gap between emerging technologies and practical solutions.
+🎵 Hobbies:
+When I’m not coding, you can find me playing the guitar, singing, or discovering new ways to express my creativity.
 
-Future Learning Goals:
-In the coming year, I am eager to expand my knowledge and proficiency in several areas, including C++/C programming, Kotlin, Java, and React. These technologies are highly sought-after in the industry, and mastering them would open up new possibilities for my career growth.
+My Projects
+📌 Highlighted Projects
 
-Hobbies:
-When I'm not coding or learning about the latest technological advancements, I enjoy playing the guitar and singing. Music is an important part of my life and provides a creative outlet and relaxation.
+1. Fall AI Studio Project
 
-Contact Information:
-You can reach out to me via email at dineshmanbajracharya@outlook.com. Additionally, you can connect with me on LinkedIn at [linkedin.com/in/dineshmanbajracharya](url).
+Overview: A detailed study on leveraging AI for predictive analytics.
+Features: Model development, data visualization, and actionable insights.
 
-I look forward to connecting with individuals who share similar interests and exploring collaborative opportunities in the exciting world of technology.
+2. IOS App Developement using Swift
+
+Overview: A functional and user-friendly IOS app solving a specific problem.
+Features: Clean architecture and real-time data handling.
+
+3. Automated RoboBoat Project
+
+Overview: Coming machine learning and hardware design to build roboboat.
+Features: Automated boat that is designed to naviagate obstracles and shoot targets for RoboBoat Competition.
+
+Contact Me
+📧 Email: [dineshmanbajracharya@outlook.com](url)
+🌐 LinkedIn: [linkedin.com/in/dineshmanbajracharya](url)
+🌟 GitHub: [github.com/dineshmanbajracharya](url)
